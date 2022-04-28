@@ -1,7 +1,7 @@
 # Utilities
 
 <p align="center">
-    <img src="./banner.png" />
+    <img src="https://github.com/cauriland/utils/raw/main/banner.png" />
 </p>
 
 [![Codecov](https://badgen.now.sh/codecov/c/github/cauriland/utils)](https://codecov.io/gh/cauriland/utils)
